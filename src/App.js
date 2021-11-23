@@ -1,6 +1,6 @@
 import { Col, Container, Row, Button, Form } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 function App() {
   const [display, setDisplay] = useState("");
