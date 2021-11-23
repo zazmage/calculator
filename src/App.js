@@ -50,7 +50,7 @@ function App() {
           <Form.Control
             type="text"
             value={display}
-            placeholder="Readonly input here..."
+            placeholder="Calculadora!"
             readOnly
           />
         </Row>
